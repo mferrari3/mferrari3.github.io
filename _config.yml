@@ -1,0 +1,6 @@
+title: Welcome to Melissa's homepage!
+name: Melissa Ferrari 
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-minimal
