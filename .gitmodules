@@ -1,0 +1,3 @@
+[submodule "nyc-pyladies-study-group"]
+	path = nyc-pyladies-study-group
+	url = https://github.com/mferrari3/nyc-pyladies-study-group
